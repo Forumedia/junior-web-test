@@ -2,7 +2,7 @@
 
 ### Задача: "Модуль новостей" ###
 
-В базе данных MySQL существует таблица news (дамп таблицы - в файле news.sql). 
+В базе данных MySQL существует таблица news (дамп таблицы - в файле news.sql в [директории](https://github.com/Forumedia/junior-web-test/blob/main/tasks/stager-web/)). 
 
 
 ##### База данных(MySQL) #####
